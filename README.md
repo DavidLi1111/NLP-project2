@@ -6,6 +6,14 @@ Welcome to my personal website! Here, I share my thoughts and ideas about how La
 
 In the healthcare domain, LLMs have the potential to revolutionize clinical documentation, automate medical coding, and assist healthcare professionals in diagnosing and treating patients. Natural Language Processing (NLP) can be leveraged to analyze electronic health records, extract relevant information, and provide valuable insights to improve patient care.
 
+### Fine-Tuned Medical Chat Model: ChatDoctor
+
+I'm excited about the advancements in fine-tuning models for specific healthcare applications. One notable example is the **ChatDoctor**, a medical chat model that has been fine-tuned on a Large Language Model Meta-AI (LLaMA) using medical domain knowledge. This model can be a game-changer in improving communication between patients and healthcare providers through natural language understanding.
+
+The fine-tuning process involves incorporating medical domain knowledge into a pre-trained language model, enabling ChatDoctor to understand and generate contextually relevant responses in the medical field. This has promising implications for virtual healthcare interactions, medical consultations, and patient support.
+
+For more details, check out the [ChatDoctor repository](https://github.com/Kent0n-Li/ChatDoctor) on GitHub.
+
 ## Law
 
 The legal field can benefit from LLMs in various ways. Automated contract review, legal document summarization, and natural language understanding can enhance the efficiency of legal processes. LLMs can assist legal professionals in conducting legal research, drafting documents, and staying updated on changes in legislation.
