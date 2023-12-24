@@ -24,6 +24,8 @@ The legal field can benefit from LLMs in various ways. Automated contract review
 
 In finance, the use of LLMs can streamline data analysis, automate financial reporting, and improve risk management. Sentiment analysis of financial news and social media can aid in predicting market trends. LLMs can also be employed for fraud detection and customer support in the financial industry.
 
+There is excellent work being done in the field of fine-tuning models for finance as well. Assistant Professor Guanhua Chen at SUSTech has made significant contributions in this area. You can refer to [this article](https://newshub.sustech.edu.cn/html/202309/44359.html) for more details on the innovative work in fine-tuning models for finance.
+
 ## Efficient Fine-tuning Method: Firefly
 
 I recently came across an efficient fine-tuning method called Firefly, available in the [Firefly repository](https://github.com/yangjianxin1/Firefly). This method provides a powerful way to fine-tune pre-trained language models to specific domains. The efficient fine-tuning process can significantly improve the performance of models in various applications.
