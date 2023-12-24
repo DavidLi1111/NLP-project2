@@ -14,6 +14,8 @@ The fine-tuning process involves incorporating medical domain knowledge into a p
 
 For more details, check out the [ChatDoctor repository](https://github.com/Kent0n-Li/ChatDoctor) on GitHub.
 
+![ChatDoctor Overview](https://github.com/Kent0n-Li/ChatDoctor/blob/main/fig/overview.PNG)
+
 ## Law
 
 The legal field can benefit from LLMs in various ways. Automated contract review, legal document summarization, and natural language understanding can enhance the efficiency of legal processes. LLMs can assist legal professionals in conducting legal research, drafting documents, and staying updated on changes in legislation.
